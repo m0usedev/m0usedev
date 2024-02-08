@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Porfolio [Pendiente] [ ]( )
 
-- 📫 Contacto **alvaro.sobrino.coding@gmail.com**
+<!--- 📫 Contacto **alvaro.sobrino.coding@gmail.com**-->
 
 ### Frontend:
 
