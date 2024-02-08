@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋 m0usedev / Álvaro</h1>
 <h3 align="center">Desarrollador con objetivo en Full Stack desde España</h3>
 
-- 🔭 Estoy trabajando en [Tic-Tac-Toe](https://github.com/m0usedev/Tic-Tac-Toe-GPT)
+- 🔭 Estoy trabajando en ...\[buscando proyecto]...
+
+- 🔭 Ultimo trabajo [Tic-Tac-Toe](https://github.com/m0usedev/Tic-Tac-Toe-GPT)
 
 - 🌱 Ahora mismo estoy aprendiendo **React.js**
 
