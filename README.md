@@ -71,6 +71,11 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+### Aprendiendo:
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 30px"/>
+  </a>
+
 ### Por Aprender (Objetivos):
 
 <p align="left">
@@ -79,9 +84,6 @@ Here are some ideas to get you started:
   </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="Angular" width="40" height="40" style="margin-right: 30px"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 30px"/>
   </a>
 </p>
 
