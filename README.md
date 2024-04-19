@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 Estoy trabajando en ...\[buscando proyecto]...
 
-- 🔭 Ultimo trabajo [Movie Search React.js](https://github.com/m0usedev/movie-search-React.js)
+- 🔭 Ultimo trabajo [Store React.js](https://github.com/m0usedev/store-react.js)
 
 - 🌱 Ahora mismo estoy aprendiendo **React.js**
 
