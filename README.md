@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer">
-    <img ssrc="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin-right: 30px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin-right: 30px"/>
   </a>
 </p>
 
