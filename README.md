@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋 m0usedev / Álvaro</h1>
 <h3 align="center">Desarrollador con objetivo en Full Stack desde España</h3>
 
-- 🔭 Estoy trabajando en ...\[buscando proyecto]...
+- 🔭 Estoy trabajando en <img src="https://cdn-icons-png.flaticon.com/512/2880/2880841.png" alt="In Progress" title="In Progress" width="40" height="40"/>
 
-- 🔭 Ultimo trabajo [Store React.js](https://github.com/m0usedev/store-react.js)
+- 🔭 Ultimo trabajo [Tic Tac Toe Angular + TS](https://github.com/m0usedev/Tic-Tac-Toe-Angular)
 
-- 🌱 Ahora mismo estoy aprendiendo **React.js**
+- 🌱 Ahora mismo estoy aprendiendo <img src="https://cdn-icons-png.flaticon.com/512/2880/2880841.png" alt="In Progress" title="In Progress" width="40" height="40"/>
 
 - 👨‍💻 Porfolio [Pendiente] [ ]( )
 
