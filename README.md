@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 - 🔭 Ultimo trabajo [Tic Tac Toe Angular + TS](https://github.com/m0usedev/Tic-Tac-Toe-Angular)
 
-- 🌱 Ahora mismo estoy aprendiendo <img src="https://cdn-icons-png.flaticon.com/512/2880/2880841.png" alt="In Progress" title="In Progress" width="40" height="40"/>
+- 🌱 Ahora mismo estoy aprendiendo <a href="https://es.wikipedia.org/wiki/Node.js" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" title="node.js" width="40" height="40"/>
+  </a>
 
 - 👨‍💻 Porfolio [Pendiente] [ ]( )
 
@@ -100,10 +102,17 @@ Here are some ideas to get you started:
 ### Aprendiendo:
 
 <p align="left" style="background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
+    <a href="https://es.wikipedia.org/wiki/Node.js" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" title="node.js" width="40" height="40"/>
+  </a>
+</p>
+  <!--
+<p align="left" style="background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/2880/2880841.png" alt="In Progress" title="In Progress" width="40" height="40"/>
   </a>
 </p>
+-->
 
 
 ### Por Aprender (Objetivos):
