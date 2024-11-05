@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 👨‍💻 Porfolio [Pendiente] [ ]( )
 
 <!--- 📫 Contacto **alvaro.sobrino.coding@gmail.com**-->
+## Main Stack:
 ### Frontend:
 
 <p align="left" style="background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
@@ -57,17 +58,8 @@ Here are some ideas to get you started:
 ### Backend:
 
 <p align="left" style="background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
-    <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" title="FastAPI" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer" style="margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40"/>
+    <a href="https://es.wikipedia.org/wiki/Node.js" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="node.js" title="node.js" width="40" height="40"/>
   </a>
   <a href="https://es.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer" style="margin-right: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" title="SQL" width="40" height="40"/>
@@ -80,7 +72,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-### Otros:
+### Repositorios:
 
 <p align="left" style="background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
@@ -88,6 +80,23 @@ Here are some ideas to get you started:
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40"/>
+  </a>
+</p>
+
+## Otras tecnologias:
+
+<p align="left" style="background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+    <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" title="FastAPI" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40"/>
   </a>
 </p>
 
