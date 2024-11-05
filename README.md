@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 <p align="left" style="background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
     <a href="https://es.wikipedia.org/wiki/Node.js" target="_blank" rel="noreferrer" style="margin-right: 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="node.js" title="node.js" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" title="node.js" width="40" height="40"/>
   </a>
   <a href="https://es.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer" style="margin-right: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" title="SQL" width="40" height="40"/>
