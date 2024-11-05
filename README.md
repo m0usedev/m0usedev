@@ -102,10 +102,12 @@ Here are some ideas to get you started:
 
 ### Por Aprender (Objetivos):
 
+<!--
 <p align="left" style="background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
   <a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="40" height="40"/>
   </a>
 </p>
+-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m0usedev&show_icons=true&locale=en&layout=compact" alt="m0usedev" /></p>
