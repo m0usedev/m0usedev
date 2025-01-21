@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 - 🔭 Ultimo trabajo [API-Pokemon-Express-Node-TS](https://github.com/m0usedev/API-Pokemon-Express-Node-TS)
 
-- 🌱 Ahora mismo estoy aprendiendo <a href="https://es.wikipedia.org/wiki/Node.js" target="_blank" rel="noreferrer" style="margin-right: 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" title="node.js" width="40" height="40"/>
+- 🌱 Ahora mismo estoy aprendiendo <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+    <img src="https://img.jsdelivr.com/github.com/electron.png" alt="node.js" title="electron" width="40" height="40"/>
   </a>
 
 - 👨‍💻 Porfolio [Pendiente] [ ]( )
@@ -102,8 +102,8 @@ Here are some ideas to get you started:
 ### Aprendiendo:
 
 <p align="left" style="background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
-    <a href="https://es.wikipedia.org/wiki/Node.js" target="_blank" rel="noreferrer" style="margin-right: 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" title="node.js" width="40" height="40"/>
+    <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+    <img src="https://img.jsdelivr.com/github.com/electron.png" alt="node.js" title="electron" width="40" height="40"/>
   </a>
 </p>
   <!--
